@@ -5,8 +5,7 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev --respawn --transpile-only src/solid/index.ts",
-    "creational": "ts-node-dev --respawn --transpile-only src/design-patterns/creational/index.ts"
+    "dev": "ts-node-dev --respawn --transpile-only src/solid/index.ts"
   },
   "keywords": [],
   "author": "",
